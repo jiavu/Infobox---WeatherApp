@@ -1,0 +1,29 @@
+
+<====================>
+ Site packages needed:
+<====================>
+
+- pytz
+- timezonefinder
+- six (needed by timezonefinder)
+- Pillow (PIL)
+Pillow and PIL cannot co-exist in the same environment.
+
+
+============
+How to:
+
+install via pip: cmd ""pip install [module]""
+
+Pillow and PIL cannot co-exist in the same environment.
+Before installing Pillow, please uninstall PIL.
+cmd ""pip uninstall PIL"
+
+============
+
+Is pip installed? Can I run Python and pip from cmd?:
+python --version
+pip --version
+
+Install Python packages on RaspberryPi:
+https://www.raspberrypi.org/documentation/linux/software/python.md

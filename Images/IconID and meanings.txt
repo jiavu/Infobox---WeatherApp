@@ -1,0 +1,16 @@
+Day icon	Night icon	Description
+
+01d.png  	01n.png  	clear sky
+02d.png  	02n.png  	few clouds (ein paar Wolken)
+03d.png  	03n.png  	scattered clouds (aufgelockerte Bewölkung, zertreute Wolken)
+04d.png  	04n.png  	broken clouds (durchbrochene Bewölkung)
+09d.png  	09n.png  	shower rain (Regenschauer)
+10d.png  	10n.png  	rain (with some sun) (Regen... Anscheinend mit etwas Sonne
+							und weniger als Regenschauer)
+11d.png  	11n.png  	thunderstorm (Gewitter)
+13d.png  	13n.png  	snow
+50d.png  	50n.png  	mist (Nebel)
+
+
+- Set size to 50 x 50px
+- content should be 2px away from the sides of the image.
