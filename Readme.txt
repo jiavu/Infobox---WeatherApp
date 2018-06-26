@@ -6,8 +6,7 @@
 Weather GUI displaying time, current weather, 3 and 6 hourly forecast, daytime forecast for next days.
 
 - Get weather infos of your region or even places of other timezones in no time!
-  The app is aware of timezones and will display the times of the other timezone for
-  current weather and forecasts.
+  The app is aware of timezones and will display the times of the other timezone for current weather and forecasts.
 
 - multilingual support
   (feel free to add more languages in the infobox_languages.py file!
@@ -20,11 +19,10 @@ Weather GUI displaying time, current weather, 3 and 6 hourly forecast, daytime f
 Written in Python 3.6.5
 tested successfully on Win7 and a RaspberryPi with Raspbian Stretch.
 I am sure it will work on MacOS as well.
-Created for 3.5inch RPi LCD (A) 320×480 (see some pictures added in the folder).
+Created for 3.5inch RPi LCD (A) 320Ã—480 (see some pictures added in the folder).
 
 It's my first code. I started to learn coding with Python this year in February 2018.
-I started to write this weather app on 19th of April and it took quite some time to manage the various exceptions
-that could rise (i. e. items of JSON data missing, dealing with non-ASCII characters, URLErrors and so on).
+I started to write this weather app on 19th of April and it took quite some time to learn tkinter, solve timezone issues and manage the various exceptions that could rise (i. e. items of JSON data missing, dealing with non-ASCII characters, URLErrors and so on).
 
 
 =======================
@@ -40,6 +38,8 @@ infobox_v1.5.5.py
 - Python 3 (Maybe Python 2 works, too)
 
 - Some side packages, see 'Modules needed for infobox.txt'
+
+- Download infobox_v1.5.5.py (main file), infobox_languages.py and Image folder and  and save them in the same folder.
 
 - API key of a free account
 
