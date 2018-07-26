@@ -1,4 +1,4 @@
-
+﻿
 <===========================>
  Infobox v1.5.5 - WeatherApp
 <===========================>
@@ -39,7 +39,7 @@ infobox_v1.5.5.py
 
 - Some side packages, see 'Modules needed for infobox.txt'
 
-- Download infobox_v1.5.5.py (main file), infobox_languages.py and Image folder and  and save them in the same folder.
+- Download infobox_v1.5.5.py (main file), infobox_languages.py and Image folder and save them in the same folder.
 
 - API key of a free account
 
